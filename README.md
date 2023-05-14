@@ -1,11 +1,10 @@
-# AUDIO SPEECH TO SIGN LANGUAGE CONVERTER
-A web application which takes in live audio speech recording as input, converts it into text and displays the relevant Indian Sign Language animations.
+# TEXT TO SIGN LANGUAGE CONVERTER
+A web application which takes in text as input, converts it into text and displays the relevant Indian Sign Language animations.
 
 >- Front-end using HTML,CSS,JavaScript.
 >- Speech recognition using JavaScript Web speech API.
 >- Text Preprocessing using Natural Language Toolkit(NLTK).
->- A 3D animation of a character created
-using Blender 3D tool.
+>- A 3D animation of a character created using Blender 3D tool.
 
 
 
@@ -27,7 +26,5 @@ These instructions will get you download the project and running on your local m
 2. From the terminal, run the python file using the command "python manage.py runserver ####" (#### optional port number).
 3. From the terminal, it shows localhost address (looks like this "server at http://127.0.0.1:8000/") run on browser.
 4. Sign up and start exploring.
-5. Click on mic button to record speech.
-6. Speech is going to processed and respective animated outputs are shown accordingly and it also support entered text manually.
 
 
